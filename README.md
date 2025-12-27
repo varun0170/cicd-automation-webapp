@@ -1,3 +1,8 @@
+![CI Pipeline](https://github.com/varun0170/cicd-automation-webapp/actions/workflows/ci.yml/badge.svg)
+
+# 🚀 CI/CD Automation for Dockerized Web Application
+
+
 ## 🚀 CI/CD Automation for Dockerized Web Application
 ## 📌 Project Overview
 
